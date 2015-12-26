@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7741935
+  brandStrength: 0.1625074
+  lightness: 0.8655914
+  rhythmicContrast: 0.8254743
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.6344086
+name: Vinbroder
